@@ -1,15 +1,14 @@
-package com.example.mynews;
+package controllers;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
 import androidx.viewpager.widget.ViewPager;
 
 
-import android.content.Context;
 import android.os.Bundle;
 import android.view.Menu;
-import android.widget.TableLayout;
 
+import com.example.mynews.R;
 import com.google.android.material.tabs.TabLayout;
 
 
